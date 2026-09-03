@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about🔭 **I’m currently working on**<br>Building production-focused AI/ML and Generative AI solutions, including RAG pipelines, AI agents, LLM applications, and machine learning systems that solve real business problems.<br><br>👯 **I’m looking to collaborate on**<br>AI/ML, Generative AI, Agentic AI, RAG, NLP, LLM applications, and end-to-end machine learning projects with engineers, data scientists, and AI builders.<br><br>🤝 **I’m looking for help with**<br>Scaling AI systems from prototypes to production, improving LLM evaluation and reliability, and designing robust agentic AI architectures.<br><br>🌱 **I’m currently learning**<br>Advanced Agentic AI, LangGraph, MCP, LLM evaluation, AI observability, multi-agent systems, model optimization, and production MLOps.<br><br>💬 **Ask me about**<br>Python, SQL, Machine Learning, Deep Learning, Generative AI, RAG, LLMs, AI Agents, LangChain, LangGraph, vector databases, NLP, and MLOps.<br><br>⚡ **Fun fact**<br>I enjoy turning complex AI concepts into practical systems—and I’m always experimenting with new AI technologies to understand how they can be used in the real world.<br><br>⚡ Fun fact
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mannemvamshikrishna9-byte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mannemvamshikrishna9-byte&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mannemvamshikrishna9-byte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshi-krishna-mannem-602343331) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@VAMSHI KRISHNA MANNEM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannemvamshikrishna9@gmail.com) 
